@@ -38,5 +38,5 @@
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=saurabhKJ7&theme=tokyonight" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkj7&" alt="saurabhkj7" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkj7" alt="saurabhkj7" /></a> </p>
-<p> <img src="https://drive.google.com/file/d/1a7fiLbbghtU7W_V4p5SSbBSWpp0apHTc/view?usp=sharing" alt="saurabhkj7" />
+<p> <img src="https://drive.google.com/file/d/1a7fiLbbghtU7W_V4p5SSbBSWpp0apHTc/view?usp=sharing" alt="saurabhkj7" /></p>
 
