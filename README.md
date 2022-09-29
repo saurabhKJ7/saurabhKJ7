@@ -72,6 +72,3 @@ A motivated individual with in-depth knowledge of language and development tools
 
 ---
 
-
-
----
