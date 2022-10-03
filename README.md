@@ -46,9 +46,11 @@ A motivated individual with in-depth knowledge of language and development tools
 
 ---
 
-<img src="C:\Users\Saurabhjha\Downloads\Jha' (1).png" alt="Teck Stack" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/101393331/193604304-36504791-29d2-4bdd-8924-1519650f3216.png">
+
 
 ---
+
 
 ### :fire: My Stats :
 <div align="center" dir="auto">
