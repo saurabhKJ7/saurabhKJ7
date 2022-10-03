@@ -46,7 +46,7 @@ A motivated individual with in-depth knowledge of language and development tools
 
 ---
 
-<img src="https://user-images.githubusercontent.com/81063456/169705256-ad8945ba-0b55-4c23-aad9-822dd97e3d4b.png" alt="Teck Stack" style="max-width: 100%;">
+<img src="https://drive.google.com/file/d/1V0hwRe2rsoxUOiKUWwYlJVsO6Hw-HOph/view?usp=sharing" alt="Teck Stack" style="max-width: 100%;">
 
 ---
 
