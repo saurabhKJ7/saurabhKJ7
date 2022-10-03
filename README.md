@@ -46,7 +46,7 @@ A motivated individual with in-depth knowledge of language and development tools
 
 ---
 
-<img src="https://drive.google.com/file/d/1V0hwRe2rsoxUOiKUWwYlJVsO6Hw-HOph/view?usp=sharing" alt="Teck Stack" style="max-width: 100%;">
+<img src="C:\Users\Saurabhjha\Downloads\Jha' (1).png" alt="Teck Stack" style="max-width: 100%;">
 
 ---
 
