@@ -1,8 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <div align="center">
+
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"/>
+  I'm Saurabh Kumar Jha
+</h1>
 <div>
   <a href="https://saurabh-jha-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
@@ -12,15 +14,9 @@
   </a>
 </div>
 
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" height="100px"/>
-  I'm Saurabh Kumar Jha
-</h1>
-<div align="center">
- 
-  <img     src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="300" width="500" data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" />
  </div>
- </div>
+
+---
  
 ### :man_technologist: About Me :
 A motivated individual with in-depth knowledge of language and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.
@@ -45,7 +41,7 @@ A motivated individual with in-depth knowledge of language and development tools
 <a href="mailto:saurabhkjha9811@gmail.com"><img src="https://user-images.githubusercontent.com/81063456/160662378-2fd26f8c-0fa6-44b0-9afc-6c1c71a3bc9b.png" alt="7" style="max-width: 100%;"></a></p>
 
 ---
-
+### Tech Stacks :
 <img src="https://user-images.githubusercontent.com/101393331/193604304-36504791-29d2-4bdd-8924-1519650f3216.png">
 
 
@@ -53,11 +49,7 @@ A motivated individual with in-depth knowledge of language and development tools
 
 
 ### :fire: My Stats :
-<div align="center" dir="auto">
-  <a href="https://github.com/saurabhKJ7" title="Go to Source">
-      <img align="center" width="100%" src="https://camo.githubusercontent.com/3876d84a7281cfe74943eba94e61437f66d6d7a509b561282845d48cb9036c68/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d707269796134326261676465267468656d653d6f6e656461726b266d617267696e2d683d3135266d617267696e2d773d35266e6f2d62673d74727565" alt="TROPHY" data-canonical-src="https://github-profile-trophy.vercel.app/?username=shivamgarg796&amp;theme=onedark&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" style="max-width: 100%;">
-    </a>
-</div>
+
 
 <br>
 
