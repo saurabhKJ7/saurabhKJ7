@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me :
-Result-oriented **AI Engineer & Backend Developer** passionate about building **scalable AI systems, intelligent agents, and enterprise-grade microservices**.  
+Result-oriented **AI Backend Engineer** passionate about building **scalable AI systems, intelligent agents, and enterprise-grade microservices**.  
 
 - 🚀 Currently focusing on **LLMs, RAG pipelines, and AI Agents** using **LangChain, LangGraph, and vector databases (Pinecone, Chroma, pgvector)**.  
 - 💻 Strong foundation in **Java (Spring Boot)** and **Python (FastAPI)** for backend architecture and API development.  
