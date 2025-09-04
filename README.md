@@ -45,11 +45,7 @@ Result-oriented **AI Backend Engineer** passionate about building **scalable AI 
 
 **Databases**  
 - PostgreSQL | MySQL | MongoDB  
-
-**Cloud & DevOps**  
-- AWS (S3, EC2, Lambda, SNS, SQS) | Docker | Kubernetes | GitHub Actions  
-
----
+ 
 
 ### 📈 GitHub Stats :
 
